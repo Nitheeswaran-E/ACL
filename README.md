@@ -7,6 +7,10 @@ A brief description of what this project does and who it's for
 
 A full-stack application that enables natural language queries to ServiceNow using Azure OpenAI, built with FastAPI backend and React frontend.
 
+## Demo Video:
+
+https://github.com/user-attachments/assets/b9df1480-2d6e-48a8-8ade-b8aeb308ae7c
+
 ## 🏗️ Architecture
 
 This project consists of two main components:
